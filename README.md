@@ -194,6 +194,7 @@ This enables:
 - Kumar Koushik Telaprolu  
 - Jeff Winchell  
 - Sanjnaa Sridhar
+- Dhruv Gor
 - Samarpan Mohanty
 
 ---
